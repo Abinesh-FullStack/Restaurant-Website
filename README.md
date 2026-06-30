@@ -35,40 +35,6 @@ React Context API
 Vite
 npm
 
-# Project Structure
-src/
-│
-├── assets/
-│
-├── components/
-│   ├── Navbar
-│   ├── Footer
-│   ├── FoodCard
-│   ├── GalleryCard
-│   ├── ReviewCard
-│   ├── StarRating
-│   └── SectionHeading
-│
-├── context/
-│   └── CartContext.jsx
-│
-├── data/
-│   ├── foodData.js
-│   ├── galleryData.js
-│   └── reviewData.js
-│
-├── pages/
-│   ├── Home
-│   ├── Menu
-│   ├── Order
-│   ├── Reservation
-│   ├── Gallery
-│   ├── Reviews
-│   └── Contact
-│
-├── App.jsx
-└── main.jsx
-
 # 📱 Responsive Design
 
 The website is optimized for:
